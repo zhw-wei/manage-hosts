@@ -18,6 +18,5 @@ done
 
 echo 
 echo "配置完成"
-echo
 
 bash show_hosts.sh
